@@ -1,16 +1,15 @@
-### Hi there 👋
+# Henrique Marcuzzo
 
-<!--
-**hmarcuzzo/hmarcuzzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Sou estudante de Computação, apaixonado por tecnologia.
+Comunicativo e curioso em desenvolvimento de projetos
+de forma eficiente.
+Buscando oportunidade de adquirir experiência profissional e melhorar minhas habilidades. :computer:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏻‍💻  &nbsp; Sou estudante da **UTFPR-CM**
+ <br/> :heart: &nbsp; Buscando colaborar com projetos em Front-end e Back-end
+ <br/> :computer: &nbsp; Minha stack: C/C++ e Python
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games WoW, Overwatch, seriados e filmes
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-HenriqueMarcuzzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hmarcuzzo/)](https://www.linkedin.com/in/hmarcuzzo/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-henrique.souza.m06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrique.souza.m06@gmail.com)](mailto:henrique.souza.m06@gmail.com)
