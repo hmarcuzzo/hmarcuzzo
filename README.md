@@ -10,6 +10,6 @@ Estudante de Computação na Universidade Tecnológica Federal do Paraná (**UTF
 <br/> 📚 Tenho estudado: Pyspark, Javascript, HTML e CSS.
 <br/> ⚡ Desejo aprender sobre: MongoDB, React, Node.JS, Vue.JS e Bootstrap.
 <br/> 💬 Sobre mim: Curto tecnologias, games como WoW e Overwatch, seriados e filmes.
- <br/> ✉️ &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-HenriqueMarcuzzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hmarcuzzo/)](https://www.linkedin.com/in/hmarcuzzo/) 
+ <br/> ✉️ &nbsp;Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-HenriqueMarcuzzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hmarcuzzo/)](https://www.linkedin.com/in/hmarcuzzo/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-henrique.souza.m06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrique.souza.m06@gmail.com)](mailto:henrique.souza.m06@gmail.com)
