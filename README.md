@@ -6,9 +6,9 @@ Computer Science student at Federal University of Technology - Paraná (**UTFPR*
 <br/>Searching an opportunity to gain professional experience and improve my skills.
 
 <br/> 👨🏻‍💻 Working with distributed data processing.
-<br/> 💻 &nbsp;My stack: C/C++, Python e MySQL.
-<br/> 📚 &nbsp;I'm studying: Pyspark, Javascript, HTML e CSS.
-<br/> ⚡ &nbsp;I want to learn about: MongoDB, React, Node.JS, Vue.JS e Bootstrap.
+<br/> 💻 &nbsp;My stack: C/C++, Python and MySQL.
+<br/> 📚 &nbsp;I'm studying: Pyspark, Javascript, HTML and CSS.
+<br/> ⚡ &nbsp;I want to learn about: MongoDB, React, Node.JS, Vue.JS and Bootstrap.
 <br/> 💬 &nbsp;About me: I like technologies, games like WoW and Overwatch, series and movies.
 <br/> ✉️ &nbsp;Contact me: [![Linkedin Badge](https://img.shields.io/badge/-HenriqueMarcuzzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hmarcuzzo/)](https://www.linkedin.com/in/hmarcuzzo/) 
 | 
