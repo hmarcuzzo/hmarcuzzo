@@ -6,7 +6,7 @@ Computer Science student at Federal University of Technology - Paraná (**UTFPR*
 <br/>Searching an opportunity to gain professional experience and improve my skills.
 
 <br/> 👨🏻‍💻 Working with distributed data processing.
-<br/> 💻 &nbsp;My stack: C/C++, Python and MySQL.
+<br/> 💻 &nbsp;My stack: C/C++, C#, Java, Python and MySQL.
 <br/> 📚 &nbsp;I'm studying: Pyspark, Javascript, HTML and CSS.
 <br/> ⚡ &nbsp;I want to learn about: MongoDB, React, Node.JS, Vue.JS and Bootstrap.
 <br/> 💬 &nbsp;About me: I like technologies, games like WoW and Overwatch, series and movies.
