@@ -1,8 +1,8 @@
 ## Hello World 👋🏻, I am [Henrique Marcuzzo](https://github.com/hmarcuzzo)   ![views](https://komarev.com/ghpvc/?username=hmarcuzzo&style=flat-square&color=dd0031&label=Views)
-![version :12.17.2021](https://img.shields.io/badge/version-12.17.2021-informational?style=for-the-badge) &nbsp;
+![version :12.18.2021](https://img.shields.io/badge/version-12.18.2021-informational?style=for-the-badge) &nbsp;
 
 
-👨🏻‍💻 **About Me**
+### 👨🏻‍💻 **About Me**
 - 🎓 **Degree at**
   - **Bachelor in Computer Science** at [Federal University of Technology - Paraná, Brazil (UTFPR)](http://www.utfpr.edu.br/campus/campomourao)
 - 💬 **About me**: Passionate about technology and a true enthusiast for **Machine Learning** and everything related to **Artificial Intelligence**
