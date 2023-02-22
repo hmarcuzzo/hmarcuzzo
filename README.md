@@ -1,12 +1,12 @@
 ### Hello World 👋🏻, I am [Henrique Marcuzzo](https://github.com/hmarcuzzo)   ![views](https://komarev.com/ghpvc/?username=hmarcuzzo&style=flat-square&color=dd0031&label=Views)
-![version :2022.05.02](https://img.shields.io/badge/version-2022.05.02-informational?style=for-the-badge) &nbsp;
+![version :2023.02.22](https://img.shields.io/badge/version-2023.02.22-informational?style=for-the-badge) &nbsp;
 
 
 ### 👨🏻‍💻 **About Me**
 - 🎓 **Degree at**
   - **Master in Informatics** at [Polytechnic Institute of Bragança (IPB)](http://portal3.ipb.pt/index.php/pt/ipb)
   - **Bachelor in Computer Science** at [Federal University of Technology - Paraná, Brazil (UTFPR)](http://www.utfpr.edu.br/campus/campomourao)
-- 💬 **About me**: Passionate about technology and a true enthusiast for **Machine Learning** and everything related to **Artificial Intelligence**
+- 💬 **About me**: I'm a technology-loving backend developer with a strong interest in **Machine Learning** and **Artificial Intelligence**. My main technology stack is based on **Python**, with experience in **SQLAlchemy** for database ORM and **FastAPI** as a framework. I have extensive knowledge of relational databases, including **PostgreSQL** and **MySQL**. In addition, I've worked with TypeScript, NestJS, and TypeORM, but I'm currently focused on my main stack. I'm always looking for new challenges and learning opportunities in the technology field and open to backend development opportunities on challenging projects.
 
 ### 🌱 I’m currently studying 
 &emsp;&emsp;![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
