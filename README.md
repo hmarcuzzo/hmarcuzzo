@@ -6,7 +6,9 @@
 - 🎓 **Degree at**
   - **Master in Informatics** at [Polytechnic Institute of Bragança (IPB)](http://portal3.ipb.pt/index.php/pt/ipb)
   - **Bachelor in Computer Science** at [Federal University of Technology - Paraná, Brazil (UTFPR)](http://www.utfpr.edu.br/campus/campomourao)
-- 💬 **About me**: I'm a technology-loving backend developer with a strong interest in **Machine Learning** and **Artificial Intelligence**. My main technology stack is based on **Python**, with experience in **SQLAlchemy** for database ORM and **FastAPI** as a framework. I have extensive knowledge of relational databases, including **PostgreSQL** and **MySQL**. In addition, I've worked with TypeScript, NestJS, and TypeORM, but I'm currently focused on my main stack. I'm always looking for new challenges and learning opportunities in the technology field and open to backend development opportunities on challenging projects.
+- 💬 **About me**: I'm a technology-loving backend developer with a strong interest in **Machine Learning** and **Artificial Intelligence**. My main technology stack is based on **Python**, with experience in **SQLAlchemy** for database ORM and **FastAPI** as a framework. I have extensive knowledge of relational databases, including **PostgreSQL** and **MySQL**. 
+
+&emsp; In addition, I've worked with TypeScript, NestJS, and TypeORM, but I'm currently focused on my main stack. I'm always looking for new challenges and learning opportunities in the technology field and open to backend development opportunities on challenging projects.
 
 ### 🌱 I’m currently studying 
 &emsp;&emsp;![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
