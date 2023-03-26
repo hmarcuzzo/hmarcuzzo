@@ -12,7 +12,7 @@
 &emsp;In addition, I've worked with TypeScript, NestJS, and TypeORM, but I'm currently focused on my main stack. I'm always looking for new challenges and learning opportunities in the technology field and open to backend development opportunities on challenging projects.
 
 ### 🌱 I’m currently studying 
-&emsp;&emsp;![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+&emsp;&emsp;![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 
 
@@ -33,7 +33,8 @@
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   
   - #### 🔥 Back-end
-  &emsp;&emsp;![NodeJS](https://img.shields.io/badge/Node_js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  &emsp;&emsp;![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![NodeJS](https://img.shields.io/badge/Node_js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
   - #### 📚 Libraries
