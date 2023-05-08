@@ -57,6 +57,10 @@
   
   &emsp;&emsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+  
+  - #### 🧪 Test
+  &emsp;&emsp;![pytest](https://img.shields.io/badge/pytest-BDC802.svg?style=for-the-badge&logo=pytest&logoColor=white)
+  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
   - #### 🌈 Front-end
   &emsp;&emsp;![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
