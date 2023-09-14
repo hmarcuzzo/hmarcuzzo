@@ -1,5 +1,5 @@
 ### Hello World 👋🏻, I am [Henrique Marcuzzo](https://github.com/hmarcuzzo)   ![views](https://komarev.com/ghpvc/?username=hmarcuzzo&style=flat-square&color=dd0031&label=Views)
-![version :2023.05.08](https://img.shields.io/badge/version-2023.05.08-informational?style=for-the-badge) &nbsp;
+![version :2023.09.14](https://img.shields.io/badge/version-2023.09.14-informational?style=for-the-badge) &nbsp;
 
 
 ### 👨🏻‍💻 **About Me**
