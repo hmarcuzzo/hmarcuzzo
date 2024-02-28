@@ -1,5 +1,5 @@
 ### Hello World 👋🏻, I am [Henrique Marcuzzo](https://github.com/hmarcuzzo)   ![views](https://komarev.com/ghpvc/?username=hmarcuzzo&style=flat-square&color=dd0031&label=Views)
-![version :2023.09.14](https://img.shields.io/badge/version-2023.09.14-informational?style=for-the-badge) &nbsp;
+![version :2024.02.28](https://img.shields.io/badge/version-2024.02.28-informational?style=for-the-badge) &nbsp;
 
 
 ### 👨🏻‍💻 **About Me**
@@ -11,9 +11,10 @@
 &emsp;Eager for new challenges and learning opportunities, my focus is on roles harnessing my Python skills in backend development, particularly in innovative projects.
 
 ### 🌱 I’m currently studying 
-&emsp;&emsp;![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000.svg?style=for-the-badge&logo=robotframework&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+&emsp;&emsp;
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+
 
 
 
@@ -60,15 +61,17 @@
   - #### 🧪 Test
   &emsp;&emsp;![pytest](https://img.shields.io/badge/pytest-BDC802.svg?style=for-the-badge&logo=pytest&logoColor=white)
   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000.svg?style=for-the-badge&logo=robotframework&logoColor=white)
 
   - #### 🌈 Front-end
-  &emsp;&emsp;![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  &emsp;&emsp; ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
   - #### 🥅 Other
   &emsp;&emsp;![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
 ### 📫 Reach me at
