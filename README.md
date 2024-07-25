@@ -1,14 +1,14 @@
 ### Hello World 👋🏻, I am [Henrique Marcuzzo](https://github.com/hmarcuzzo)   ![views](https://komarev.com/ghpvc/?username=hmarcuzzo&style=flat-square&color=dd0031&label=Views)
-![version :2024.02.28](https://img.shields.io/badge/version-2024.02.28-informational?style=for-the-badge) &nbsp;
+![version :2024.07.25](https://img.shields.io/badge/version-2024.07.25-informational?style=for-the-badge) &nbsp;
 
 
 ### 👨🏻‍💻 **About Me**
 - 🎓 **Degree at**
   - **Master in Informatics** at [Polytechnic Institute of Bragança (IPB)](http://portal3.ipb.pt/index.php/pt/ipb)
   - **Bachelor in Computer Science** at [Federal University of Technology - Paraná, Brazil (UTFPR)](http://www.utfpr.edu.br/campus/campomourao)
-- 💬 **About me**: I'm a passionate tech enthusiast and backend developer. My core expertise lies in **Python**, **FastAPI**, **SQLAlchemy**, complemented by substantial knowledge in relational databases such as **PostgreSQL** and **MySQL**, with additional experience in TypeScript, NestJS, and TypeORM.
+- 💬 **About me**: Passionate Backend Developer specializing in **Python** and **FastAPI**, with deep expertise in SQL databases like **PostgreSQL** and **MySQL**, and proficient in creating robust testing frameworks using **Pytest**. Skilled in Docker for effective containerization, and an advocate of DevOps to streamline CI/CD processes.
 
-&emsp;Eager for new challenges and learning opportunities, my focus is on roles harnessing my Python skills in backend development, particularly in innovative projects.
+&emsp;Eager to engage with professionals exploring advanced Python applications and DevOps practices. I am committed to continuous learning and sharing knowledge to foster a supportive and innovative tech community.
 
 ### 🌱 I’m currently studying 
 &emsp;&emsp;
@@ -33,6 +33,7 @@
   &emsp;&emsp;![MySql](https://img.shields.io/badge/MySQL-%232F5E8D.svg?&style=for-the-badge&logo=mysql&logoColor=white)
   ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
   
   - #### 🔥 Back-end
   &emsp;&emsp;![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -71,8 +72,10 @@
   - #### 🥅 Other
   &emsp;&emsp;![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
+  ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
+    
 
 ### 📫 Reach me at
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmarcuzzo/) 
