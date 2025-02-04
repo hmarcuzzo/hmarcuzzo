@@ -1,12 +1,12 @@
 ### Hello World 👋🏻, I am [Henrique Marcuzzo](https://github.com/hmarcuzzo)   ![views](https://komarev.com/ghpvc/?username=hmarcuzzo&style=flat-square&color=dd0031&label=Views)
-![version :2024.10.26](https://img.shields.io/badge/version-2024.10.26-informational?style=for-the-badge) &nbsp;
+![version :2025.02.04](https://img.shields.io/badge/version-2025.02.04-informational?style=for-the-badge) &nbsp;
 
 
 ### 👨🏻‍💻 **About Me**
 - 🎓 **Degree at**
-  - **Master in Informatics** at [Polytechnic Institute of Bragança (IPB)](http://portal3.ipb.pt/index.php/pt/ipb)
+  - **Master in Computer Science** at [Polytechnic Institute of Bragança (IPB)](http://portal3.ipb.pt/index.php/pt/ipb)
   - **Bachelor in Computer Science** at [Federal University of Technology - Paraná, Brazil (UTFPR)](http://www.utfpr.edu.br/campus/campomourao)
-- 💬 **About me**: Passionate Backend Developer specializing in **Python** and **FastAPI**, with deep expertise in SQL databases like **PostgreSQL** and **MySQL**, and proficient in creating robust testing frameworks using **Pytest**. Skilled in Docker for effective containerization, and an advocate of DevOps to streamline CI/CD processes.
+- 💬 **About me**: Passionate Backend Developer specializing in **Python** and **FastAPI**, with deep expertise in SQL databases like **PostgreSQL** and **MySQL**. Skilled in Docker for effective containerization, and an advocate of DevOps to streamline CI/CD processes.
 
 &emsp;Eager to engage with professionals exploring advanced Python applications and DevOps practices. I am committed to continuous learning and sharing knowledge to foster a supportive and innovative tech community.
 
@@ -15,8 +15,7 @@
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 
 
