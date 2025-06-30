@@ -9,7 +9,7 @@
     
 - 💬 **About me**
 
-  Passionate **Full-Stack Developer** with a strong **backend focus**. I build resilient APIs with **Python** & FastAPI**, craft dynamic UIs using **Vue 3 + Vite**, and design data layers around **PostgreSQL** and **Redis**. I’m comfortable deploying and scaling these solutions on **AWS**. Containerization with **Docker** and robust **DevOps / CI-CD pipelines** are integral parts of my workflow.
+  Passionate **Full-Stack Developer** with a strong **backend focus**. I build resilient APIs with **Python & FastAPI**, craft dynamic UIs using **Vue 3 + Vite**, and design data layers around **PostgreSQL** and **Redis**. I’m comfortable deploying and scaling these solutions on **AWS**. Containerization with **Docker** and robust **DevOps / CI-CD pipelines** are integral parts of my workflow.
   <br><br>
   Eager to collaborate with professionals pushing the boundaries of Python, modern frontend tooling, and cloud-native architectures.
 
