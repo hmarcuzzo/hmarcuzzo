@@ -1,5 +1,5 @@
 ### Hello World 👋🏻, I am [Henrique Marcuzzo](https://github.com/hmarcuzzo)
-![version :2025.11.27](https://img.shields.io/badge/version-2025.11.27-informational?style=for-the-badge) &nbsp;
+![version :2026.01.27](https://img.shields.io/badge/version-2026.01.27-informational?style=for-the-badge) &nbsp;
 
 
 ### 👨🏻‍💻 **About Me**
