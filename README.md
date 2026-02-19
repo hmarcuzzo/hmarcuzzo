@@ -1,5 +1,5 @@
 ### Hello World 👋🏻, I am [Henrique Marcuzzo](https://github.com/hmarcuzzo)
-![version :2026.01.27](https://img.shields.io/badge/version-2026.01.27-informational?style=for-the-badge) &nbsp;
+![version :2026.02.19](https://img.shields.io/badge/version-2026.02.19-informational?style=for-the-badge) &nbsp;
 
 
 ### 👨🏻‍💻 **About Me**
@@ -51,6 +51,7 @@
   - #### 💾 Database
   &emsp;&emsp;![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=DynamoDB&logoColor=white)
   ![MySql](https://img.shields.io/badge/MySQL-%232F5E8D.svg?&style=for-the-badge&logo=mysql&logoColor=white)
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -61,14 +62,6 @@
   ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
-
-  - #### 📚 Libraries
-  &emsp;&emsp;![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 
   - #### 🔧 Tools
