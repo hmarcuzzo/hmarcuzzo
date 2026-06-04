@@ -1,5 +1,5 @@
 ### Hello World 👋🏻, I am [Henrique Marcuzzo](https://github.com/hmarcuzzo)
-![version :2026.04.15](https://img.shields.io/badge/version-2026.04.15-informational?style=for-the-badge) &nbsp;
+![version :2026.06.04](https://img.shields.io/badge/version-2026.06.04-informational?style=for-the-badge) &nbsp;
 
 
 ### 👨🏻‍💻 **About Me**
@@ -16,10 +16,7 @@ Building toward Tech Lead and Software Architect roles, with growing depth in in
 
 ### 🧠 Currently studying
 &emsp;&emsp;
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-<!-- ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 
 ### ⚡ Skills
@@ -46,6 +43,7 @@ Building toward Tech Lead and Software Architect roles, with growing depth in in
   - #### ☁️ Cloud & Infra
   &emsp;&emsp;![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
   - #### 📊 Observability
   &emsp;&emsp;`CloudWatch`
@@ -62,8 +60,10 @@ Building toward Tech Lead and Software Architect roles, with growing depth in in
   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000.svg?style=for-the-badge&logo=robotframework&logoColor=white)
 
-  - #### 🔧 Message Queues
+  - #### 🔧 Message & Task Queues
   &emsp;&emsp;`SQS`
+  ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+  ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
     
 
 ### 📫 Reach me at
