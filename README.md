@@ -1,5 +1,5 @@
 ### Hello World 👋🏻, I am [Henrique Marcuzzo](https://github.com/hmarcuzzo)
-![version :2026.06.04](https://img.shields.io/badge/version-2026.06.04-informational?style=for-the-badge) &nbsp;
+![version :2026.09.27](https://img.shields.io/badge/version-2026.09.27-informational?style=for-the-badge) &nbsp;
 
 
 ### 👨🏻‍💻 **About Me**
@@ -15,8 +15,8 @@ Building toward Tech Lead and Software Architect roles, with growing depth in in
 
 
 ### 🧠 Currently studying
-&emsp;&emsp;
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+&emsp;&emsp;![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 
 
 ### ⚡ Skills
@@ -27,7 +27,8 @@ Building toward Tech Lead and Software Architect roles, with growing depth in in
 
 
   - #### ⚙️ Back-end
-  &emsp;&emsp;![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  &emsp;&emsp;![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
